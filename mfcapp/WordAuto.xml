@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+            <ITEM id="1003" billItemName="Send_Name" billItemType="0" text="出票人全称" value="" font="宋体" fontSize="10"/>
+            <ITEM id="1004" billItemName="Send_Account" billItemType="0" text="出票人账户" value="" font="宋体" fontSize="10"/>
+            <ITEM id="1005" billItemName="Send_Bank" billItemType="0" text="出票人开户银行" value="" font="宋体" fontSize="10"/>
+            <ITEM id="1006" billItemName="Receive_Name" billItemType="0" text="收款人全称" value="" font="宋体" fontSize="10"/>
+            <ITEM id="1007" billItemName="Receive_Account" billItemType="0" text="收款人账户" value="" font="宋体" fontSize="10"/>
+            <ITEM id="1008" billItemName="Receive_Bank" billItemType="0" text="收款人开户银行" value="" font="宋体" fontSize="10"/>
+            <ITEM id="1009" billItemName="Transfer_Normal" billItemType="1" text="普通" value="" font="宋体" fontSize="12"/>
+            <ITEM id="1010" billItemName="Transfer_Nextday" billItemType="1" text="次日到账" value="" font="宋体" fontSize="12"/>
+</Items>
